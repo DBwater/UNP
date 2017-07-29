@@ -323,4 +323,3 @@ void processpool<T>::run_parent()
 
 
 #endif // PROCESSPOLL_H
-
