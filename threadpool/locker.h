@@ -4,6 +4,7 @@
 #include<exception>
 #include<pthread.h>
 #include<semaphore.h>
+#include<sys/uio.h>
 //信号量
 class sem{
 public:
